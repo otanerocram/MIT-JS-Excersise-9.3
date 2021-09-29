@@ -27,7 +27,7 @@ Once you have index.html opened in your browser
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Support: 
-Feel free to contact me :call_me_hand: for additional support at ocram@beltren.dev. Include the subject "Help with PacMen Game".
+Feel free to contact me :call_me_hand: for additional support at ocram@beltren.dev. Include the subject "Help with Real time bus tracker".
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
